@@ -79,7 +79,7 @@ XuZhou, JiangSu
 ### **Binary Security**
 - Operating System Security, Taint Analysis, Blockchain.
 
-## Research&Project
+## Research & Project
 
 ### **Alibaba 2021 Summer Joint of Blockchain** <i class="fas fa-award"></i> **Outstanding Students**
 Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
