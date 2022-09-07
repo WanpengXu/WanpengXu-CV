@@ -32,14 +32,40 @@ XuZhou, JiangSu
 - Undergraduate in Information Security at Computer Science department
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
 
+
+
 English: CET-6 465
+
+Algorithm: CCF-CSP 280
 
 Academic Record: Score Point Average 89.55 (6/129, Top 4.65%)
 
 major subjects：
-- Math: Advanced Mathematics A 92(mean),  Linear Algebra 97,  Probability Theory and Mathematical Statistics 91
+- Math: Advanced Mathematics 92(mean),  Linear Algebra 97,  Probability Theory and Mathematical Statistics 91, Discrete Mathematics 98,  Mathematics Foundation of Information Security 97
 - 408: Data Structure 4.0,  Computer Network 4.5,  Operating System 4.5,  Principle of Computer Organization 4.0
 - Security: Operating System Security 97,  Network attack and defense practice 98,  Cryptography 94
+- Else: Python Programming 100,  Linux Operating System 97,  Artificial Intelligence 99
+
+## Selected Honors
+
+### Scholarships
+
+- **China National Scholarship** `2019-2020` <br>
+- First Class Scholarship `2020-2021` <br>
+- "Shanghai Energy" Enterprise Scholarship `2021-2022` <br>
+- Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship `2021-2022` <br>
+
+### Awards
+
+- China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
+- The Chinese Mathematics Competition, Third Prize `2020`<br>
+- ADPC, Bronze`2021`<br>
+
+- Mathematics Competition of JiangSu Province, Second Prize `2020`<br>
+- LanQiao Cup Programming Competition of JiangSu Province, Second Prize `2022`<br>
+
+- LongGe Cup Programming Competition of CUMT, Second Prize `2021`<br>
+- CTF Contest of CUMT, First Prize `2021`<br>
 
 ## Publications
 
@@ -124,18 +150,7 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 
 ---
 
-## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Teaching
 
