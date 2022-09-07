@@ -35,11 +35,11 @@ XuZhou, JiangSu
 
 <br>
 
-**English**: CET-6 465
+**English**: CET-6 **465**
 
-**Algorithm**: CCF-CSP 280
+**Algorithm**: CCF-CSP **280**
 
-**Academic Record**: Score Point Average 89.55 (6/129, Top 4.65%)
+**Academic Record**: Score Point Average **89.55 (6/129, Top 4.65%)**
 
 **Major Subjects**：
 - **Math**: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**,  Mathematical Optimization **94**
