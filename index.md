@@ -8,6 +8,7 @@ homepage:
   url: https://xuwp.top/
   text: xuwp.top
 phone:
+  url: 
   text: 17372145682
 ---
 
@@ -71,30 +72,30 @@ XuZhou, JiangSu
 
 ## Research Interests
 
-### Image Analysis
+### **Image Analysis**
 - Face Alignment, Face Recognition, Face Anti-Spoofing, Image Matching.
 
-### Deep Learning
+### **Deep Learning**
 - Transformer, Convolutional Neural Network
 
-### Binary Security
+### **Binary Security**
 - Operating System Security, Taint Analysis
 
 ## Research&Project
 
-### Alibaba 2021 Summer Joint of Blockchain **Outstanding Students**
+### **Alibaba 2021 Summer Joint of Blockchain** <i class="fas fa-award"></i> **Outstanding Students**
 Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
 
-### *Mathematical Optimization* Course Design
+### ** *Mathematical Optimization* Course Design**
 Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method`2021.10-2021.11`<br>
 
-### School-Enterprise Cooperation Projects
+### **School-Enterprise Cooperation Projects**
 Implement a **Deep Learning-based Face Recognition Attendance System** for Guang Lian Technology Company`2022.4-2022.7`<br>
 
-### Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer)**National Second Prize**
+### **Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer**) <i class="fas fa-award"></i> **National Second Prize**
 Research a Fuzzer based on Intel PIN(A Dynamic Binary Instrumentation Tool) focusing on dump file to analyze vulnerabilities automatically.`2022.7-2022.9`<br>
 
-### Research on Face Anti-Spoofing(2022 Summer)
+### **Research on Face Anti-Spoofing(2022 Summer)**
 Research on **Face Anti-Spoofing** and reproduce paper`2022.9-Present`<br>
 
 <!--
