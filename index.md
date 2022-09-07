@@ -7,6 +7,8 @@ email:
 homepage:
   url: https://xuwp.top/
   text: xuwp.top
+phone:
+  text: 17372145682
 ---
 
 # Wanpeng **Xu**
@@ -41,10 +43,10 @@ XuZhou, JiangSu
 **Academic Record**: Score Point Average 89.55 (6/129, Top 4.65%)
 
 **Major Subjects**：
-- Math: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**
-- 408: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
-- Security: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
-- Else: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
+- **Math**: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**,  Mathematical Optimization **94**
+- **408(Grade)**: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
+- **Security**: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
+- **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
 
 ## Selected Honors
 
@@ -66,6 +68,36 @@ XuZhou, JiangSu
 <br>
 - LongGe Cup Programming Competition of CUMT, Second Prize `2021`<br>
 - CTF Contest of CUMT, First Prize `2021`<br>
+
+## Research Interests
+
+### Image Analysis
+- Face Alignment, Face Recognition, Face Anti-Spoofing, Image Matching.
+
+### Deep Learning
+- Transformer, Convolutional Neural Network
+
+### Binary Security
+- Operating System Security, Taint Analysis
+
+## Research&Project
+
+### Alibaba 2021 Summer Joint of Blockchain **Outstanding Students**
+Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
+
+### *Mathematical Optimization* Course Design
+Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method`2021.10-2021.11`<br>
+
+### School-Enterprise Cooperation Projects
+Implement a **Deep Learning-based Face Recognition Attendance System** for Guang Lian Technology Company`2022.4-2022.7`<br>
+
+### Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer)**National Second Prize**
+Research a Fuzzer based on Intel PIN(A Dynamic Binary Instrumentation Tool) focusing on dump file to analyze vulnerabilities automatically.`2022.7-2022.9`<br>
+
+### Research on Face Anti-Spoofing(2022 Summer)
+Research on **Face Anti-Spoofing** and reproduce paper`2022.9-Present`<br>
+
+<!--
 
 ## Publications
 
@@ -166,6 +198,8 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+
+-->
 
 <!-- ### Footer
 
