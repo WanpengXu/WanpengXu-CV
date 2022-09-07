@@ -10,6 +10,8 @@ homepage:
 phone: 17372145682
 ---
 
+<center><a href="https://xuwp.top/cv-zh/">Chinese Version</a> | English Version</center>
+
 # Wanpeng **Xu**
 
 <!--
