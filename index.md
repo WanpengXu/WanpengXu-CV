@@ -7,9 +7,7 @@ email:
 homepage:
   url: https://xuwp.top/
   text: xuwp.top
-phone:
-  url: 
-  text: 17372145682
+phone: 17372145682
 ---
 
 # Wanpeng **Xu**
@@ -86,7 +84,7 @@ XuZhou, JiangSu
 ### **Alibaba 2021 Summer Joint of Blockchain** <i class="fas fa-award"></i> **Outstanding Students**
 Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
 
-### ** *Mathematical Optimization* Course Design**
+### **Mathematical Optimization Course Design**
 Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method`2021.10-2021.11`<br>
 
 ### **School-Enterprise Cooperation Projects**
