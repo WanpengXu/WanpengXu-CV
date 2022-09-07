@@ -32,38 +32,38 @@ XuZhou, JiangSu
 - Undergraduate in Information Security at Computer Science department
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
 
+<br>
 
+**English**: CET-6 465
 
-English: CET-6 465
+**Algorithm**: CCF-CSP 280
 
-Algorithm: CCF-CSP 280
+**Academic Record**: Score Point Average 89.55 (6/129, Top 4.65%)
 
-Academic Record: Score Point Average 89.55 (6/129, Top 4.65%)
-
-major subjects：
-- Math: Advanced Mathematics 92(mean),  Linear Algebra 97,  Probability Theory and Mathematical Statistics 91, Discrete Mathematics 98,  Mathematics Foundation of Information Security 97
-- 408: Data Structure 4.0,  Computer Network 4.5,  Operating System 4.5,  Principle of Computer Organization 4.0
-- Security: Operating System Security 97,  Network attack and defense practice 98,  Cryptography 94
-- Else: Python Programming 100,  Linux Operating System 97,  Artificial Intelligence 99
+**Major Subjects**：
+- Math: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**
+- 408: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
+- Security: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
+- Else: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
 
 ## Selected Honors
 
-### Scholarships
+### **Scholarships**
 
 - **China National Scholarship** `2019-2020` <br>
 - First Class Scholarship `2020-2021` <br>
 - "Shanghai Energy" Enterprise Scholarship `2021-2022` <br>
 - Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship `2021-2022` <br>
 
-### Awards
+### **Awards**
 
 - China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
 - The Chinese Mathematics Competition, Third Prize `2020`<br>
 - ADPC, Bronze`2021`<br>
-
+<br>
 - Mathematics Competition of JiangSu Province, Second Prize `2020`<br>
 - LanQiao Cup Programming Competition of JiangSu Province, Second Prize `2022`<br>
-
+<br>
 - LongGe Cup Programming Competition of CUMT, Second Prize `2021`<br>
 - CTF Contest of CUMT, First Prize `2021`<br>
 
