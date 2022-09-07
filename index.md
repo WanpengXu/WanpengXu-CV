@@ -85,16 +85,16 @@ XuZhou, JiangSu
 Using Solidity implement Contract Honeypot etc.`2021.8-2021.9`<br>
 
 ### **Mathematical Optimization Course Design**
-Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method`2021.10-2021.11`<br>
+Using Matlab implement One-dimensional Search, FR Conjugate Gradient and Penalty method.`2021.10-2021.11`<br>
 
 ### **School-Enterprise Cooperation Projects**
-Implement a **Deep Learning-based Face Recognition Attendance System** for Guang Lian Technology Company`2022.4-2022.7`<br>
+Implement a **Deep Learning-based Face Recognition Attendance System** for Guang Lian Technology Company.`2022.4-2022.7`<br>
 
-### **Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer**) <i class="fas fa-award"></i> **National Second Prize**
+### **Fuzzing Technology Based on Snapshot Relay Execution(2022 Summer)** <i class="fas fa-award"></i> **National Second Prize**
 Research a Fuzzer based on Intel PIN(A Dynamic Binary Instrumentation Tool) focusing on dump file to analyze vulnerabilities automatically.`2022.7-2022.9`<br>
 
 ### **Research on Face Anti-Spoofing(2022 Summer)**
-Research on **Face Anti-Spoofing** and reproduce paper`2022.9-Present`<br>
+Research on **Face Anti-Spoofing** and reproduce paper.`2022.9-Present`<br>
 
 <!--
 
