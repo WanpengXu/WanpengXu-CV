@@ -74,10 +74,10 @@ XuZhou, JiangSu
 - Face Alignment, Face Recognition, Face Anti-Spoofing, Image Matching.
 
 ### **Deep Learning**
-- Transformer, Convolutional Neural Network
+- Transformer, Convolutional Neural Network.
 
 ### **Binary Security**
-- Operating System Security, Taint Analysis
+- Operating System Security, Taint Analysis, Blockchain.
 
 ## Research&Project
 
