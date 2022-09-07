@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wanpeng "Nimo" Xu
+title: Wanpeng Xu
 email:
   url: mailto:xwp@cumt.edu.cn
   text: xwp@cumt.edu.cn
@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **China University of Mining and Technology** `2019.8 -`
+### **China University of Mining and Technology** `2019.8 - Present`
 
 ```
 XuZhou, JiangSu
@@ -31,6 +31,13 @@ XuZhou, JiangSu
 
 - Undergraduate in Information Security at Computer Science department
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
+
+English: CET-6 465
+Academic Record: Score Point Average 89.55 (6/129, Top 4.65%)
+major subjects：
+- Math: Advanced Mathematics A 92(mean), Linear Algebra 97, Probability Theory and Mathematical Statistics 91
+- 408: Data Structure 4.0, Computer Network 4.5, Operating System 4.5, Principle of Computer Organization 4.0
+- Security: Operating System Security 97, Network attack and defense practice 98, Cryptography 94
 
 ## Publications
 
