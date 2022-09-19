@@ -53,8 +53,9 @@ XuZhou, JiangSu
 
 ### **Scholarships**
 
-- **China National Scholarship** `2019-2020` <br>
-- First Class Scholarship `2020-2021` <br>
+- **China National Scholarship** (2/281, Top 0.71%) `2019-2020` <br>
+- First Class Scholarship (5/129, Top 3.88%) `2020-2021` <br>
+- **China National Scholarship** (1/129, Top 0.78%) `2021-2022` <br>
 - "Shanghai Energy" Enterprise Scholarship `2021-2022` <br>
 - Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship `2021-2022` <br>
 
