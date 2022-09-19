@@ -49,6 +49,8 @@ XuZhou, JiangSu
 - **Security**: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
 - **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
 
+**Political Affiliation**: Member of the Chinese Party of Communist, MCPC
+
 ## Selected Honors
 
 ### **Scholarships**
