@@ -32,8 +32,19 @@ Supported arguments:
 XuZhou, JiangSu
 ```
 
-- Undergraduate in Information Security at Computer Science department
+- Undergraduate in Information Security at School of Computer Science & Technology
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
+
+<br>
+
+### **Southeast University** `from 2023.8`
+
+```
+NanJing, JiangSu
+```
+
+- MEng in Computer Network and Information Security at School of Cyber Science and Engineering
+- Advised by [Jie Gui](https://guijiejie.github.io/)
 
 <br>
 
