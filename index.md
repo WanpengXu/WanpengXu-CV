@@ -85,7 +85,7 @@ NanJing, JiangSu
 - CTF Contest of CUMT, First Prize `2021`<br>
 
 ## Teaching
-- TA, High Level Language Programming, fall 2022。
+- TA, High Level Language Programming, fall 2022
 
 ## Research Interests
 
