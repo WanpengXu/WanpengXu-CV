@@ -55,7 +55,7 @@ NanJing, JiangSu
 **Academic Record**: Score Point Average **89.55 (6/129, Top 4.65%)**
 
 **Major Subjects**：
-- **Math**: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security **97**,  Mathematical Optimization **94**
+- **Math**: Advanced Mathematics **92(mean)**,  Linear Algebra **97**,  Probability Theory and Mathematical Statistics **91**, Discrete Mathematics **98**,  Mathematics Foundation of Information Security (Elementary Number Theory) **97**,  Mathematical Optimization **94**
 - **408(Grade)**: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
 - **Security**: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
 - **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
