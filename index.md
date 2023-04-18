@@ -59,6 +59,7 @@ NanJing, JiangSu
 - **408(Grade)**: Data Structure **4.0**,  Computer Network **4.5**,  Operating System **4.5**,  Principle of Computer Organization **4.0**
 - **Security**: Operating System Security **97**,  Network Attack and Defense Practice **98**,  Cryptography **94**
 - **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
+- [**See More**](https://github.com/WanpengXu/CUMT-IS-Course-Resources-2019-WanpengXu)
 
 **Political Affiliation**: Member of the Chinese Party of Communist, MCPC
 
