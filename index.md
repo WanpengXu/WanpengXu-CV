@@ -62,7 +62,7 @@ NanJing, JiangSu
 - **Else**: Python Programming **100**,  Linux Operating System **97**,  Artificial Intelligence **99**
 - [**See More**](https://github.com/WanpengXu/CUMT-IS-Course-Resources-2019-WanpengXu)
 
-**Political Affiliation**: Member of the Chinese Party of Communist, MCPC
+**Political Affiliation**: Member of the Communist Party of China, CPC Member
 
 ## Selected Honors
 
