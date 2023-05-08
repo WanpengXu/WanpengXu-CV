@@ -32,6 +32,7 @@ Supported arguments:
 XuZhou, JiangSu
 ```
 
+- Switched out of Geological Sciences at School of Resources & Geosciences after freshman year
 - Undergraduate in Information Security at School of Computer Science & Technology
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
 
@@ -67,11 +68,12 @@ NanJing, JiangSu
 
 ### **Scholarships**
 
-- **China National Scholarship (2/281, Top 0.71%)** `2019-2020` <br>
-- First Class Scholarship (5/129, Top 3.88%) `2020-2021` <br>
-- **China National Scholarship (1/129, Top 0.78%)** `2021-2022` <br>
-- "Shanghai Energy" Enterprise Scholarship `2021-2022` <br>
-- Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship `2021-2022` <br>
+- **China National Scholarship (2/281, Top 0.71%)** 8,000 CNY  `2019-2020` <br>
+- First Class Scholarship (5/129, Top 3.88%) 4,000 CNY `2020-2021` <br>
+- **China National Scholarship (1/129, Top 0.78%)** 8,000 CNY `2021-2022` <br>
+- "Shanghai Energy" Enterprise Scholarship 3,000 CNY `2021-2022` <br>
+- Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship 7,000 CNY `2021-2022` <br>
+- "Shanghai Energy" Enterprise Scholarship 5,000 CNY `2022-2023` <br>
 
 ### **Awards**
 
