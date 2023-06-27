@@ -26,14 +26,14 @@ Supported arguments:
 
 ## Education
 
-### **China University of Mining and Technology** `2019.8 - Present`
+### **China University of Mining and Technology** `2019.8 - 2023.6`
 
 ```
 XuZhou, JiangSu
 ```
 
 - Switched out of Geological Sciences at School of Resources & Geosciences after freshman year
-- Undergraduate in Information Security at School of Computer Science & Technology
+- B.Eng. in Information Security at School of Computer Science & Technology
 - Advised by [Zhiwen Shao](https://zhiwenshao.github.io/)
 
 <br>
@@ -44,7 +44,7 @@ XuZhou, JiangSu
 NanJing, JiangSu
 ```
 
-- MEng in Computer Network and Information Security at School of Cyber Science and Engineering
+- M.Eng. in Computer Network and Information Security at School of Cyber Science and Engineering
 - Advised by [Jie Gui](https://guijiejie.github.io/)
 
 <br>
@@ -73,9 +73,13 @@ NanJing, JiangSu
 - **China National Scholarship (1/129, Top 0.78%)** – 8,000 CNY `2021-2022` <br>
 - "Shanghai Energy" Enterprise Scholarship – 3,000 CNY `2021-2022` <br>
 - Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship – 7,000 CNY `2021-2022` <br>
+<!--
 - "Shanghai Energy" Enterprise Scholarship – 5,000 CNY `2022-2023` <br>
+-->
 
 ### **Awards**
+- Outstanding Undergraduate Thesis of CUMT (7/437, Top 1.60%) `2023` <br>
+<br>
 
 - China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
 - The Chinese Mathematics Competition, Third Prize `2020`<br>
