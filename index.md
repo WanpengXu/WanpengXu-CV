@@ -73,9 +73,6 @@ NanJing, JiangSu
 - **China National Scholarship (1/129, Top 0.78%)** – 8,000 CNY `2021-2022` <br>
 - "Shanghai Energy" Enterprise Scholarship – 3,000 CNY `2021-2022` <br>
 - Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship – 7,000 CNY `2021-2022` <br>
-<!--
-- "Shanghai Energy" Enterprise Scholarship – 5,000 CNY `2022-2023` <br>
--->
 
 ### **Awards**
 - Outstanding Undergraduate Thesis of CUMT (7/437, Top 1.60%) `2023` <br>
