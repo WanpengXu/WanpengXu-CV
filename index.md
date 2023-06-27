@@ -76,7 +76,7 @@ NanJing, JiangSu
 
 ### **Awards**
 
-- Outstanding Undergraduate Thesis of CUMT `2023` <br>
+- Outstanding Undergraduate Thesis of CUMT (7/437, Top 1.60%) `2023` <br>
 <br>
 - China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
 - The Chinese Mathematics Competition, Third Prize `2020`<br>
