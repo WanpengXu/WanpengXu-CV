@@ -75,9 +75,9 @@ NanJing, JiangSu
 - Jiangsu-HongKong-Macao University Alliance(JHMUA) Government Scholarship – 7,000 CNY `2021-2022` <br>
 
 ### **Awards**
-- Outstanding Undergraduate Thesis of CUMT (7/437, Top 1.60%) `2023` <br>
-<br>
 
+- Outstanding Undergraduate Thesis of CUMT `2023` <br>
+<br>
 - China Collegiate Computing Contest-Network Technology Challenge, Second Prize `2022` <br>
 - The Chinese Mathematics Competition, Third Prize `2020`<br>
 - ADPC, Bronze`2021`<br>
